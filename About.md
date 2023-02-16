@@ -1,7 +1,7 @@
 ---
 title: "About"
 permalink: "/about/"
-layout: page
+layout: about
 ---
 
 Hi I'm Kim Min Gyu.   
