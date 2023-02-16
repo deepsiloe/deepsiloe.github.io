@@ -6,15 +6,14 @@ layout: page
 
 Hi I'm Kim Min Gyu.   
 
-## Research Experience
+## Research Experience   
 
-## Work Experience  
+## Work Experience   
 
+## Education   
 
-## Education
+## Awards   
 
-## Awards
+## Projects   
 
-## Projects
-
-## Papers
+## Papers   
